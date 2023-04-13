@@ -78,21 +78,7 @@ header {
     z-index: 1;
 }
 
-.nav-link {
-    text-decoration: none; 
-    font-family: Gilroy-Bold, sans-serif;
-    font-size: 18px;
-    line-height: 22px;
-    color: #828282;
-}
 
-.nav-link:visited {
-    text-decoration: none; 
-    font-family: Gilroy-Bold, sans-serif;
-    font-size: 18px;
-    line-height: 22px;
-    color: #828282;
-}
 
 main {
     background: #FFFFFF;
@@ -161,7 +147,21 @@ ul {
     transition: box-shadow 0.5s ease-in-out;
 }
 
+.nav-link {
+    text-decoration: none; 
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
 
+.nav-link:visited {
+    text-decoration: none; 
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
 
 .nav-item:first-child {
     padding-left: 0;

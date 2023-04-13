@@ -86,6 +86,14 @@ header {
     color: #828282;
 }
 
+.nav-link:visited {
+    text-decoration: none; 
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
+
 main {
     background: #FFFFFF;
     display: flex;
@@ -206,11 +214,22 @@ ul {
 }
 
 .nav-link-min {
+    text-decoration: none; 
     font-family: Gilroy-Medium, sans-serif;
-font-size: 34px;
-line-height: 42px;
-color: #828282;
+    font-size: 34px;
+    line-height: 42px;
+    color: #828282;
 }
+.nav-link-min:visited {
+    text-decoration: none; 
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: 34px;
+    line-height: 42px;
+    color: #828282;
+}
+
+
+
 
 .nav-item-min {
     padding-top: 67px;

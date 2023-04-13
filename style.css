@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Gilroy-Bold";
-    src: url("/intern projects/001_Denis Novik/fonts/gilroy-bold-cufonfonts/Gilroy-Bold.ttf") format("ttf");
+    src: url("../fonts/gilroy-bold-cufonfonts/Gilroy-Bold.ttf") format("ttf");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "Gilroy-Medium";
-    src: url("/intern projects/001_Denis Novik/fonts/gilroy-bold-cufonfonts/Gilroy-Medium.ttf") format("ttf");
+    src: url("../fonts/gilroy-bold-cufonfonts/Gilroy-Medium.ttf") format("ttf");
     font-weight: 400;
     font-style: normal;
     font-display: swap;

@@ -205,6 +205,13 @@ ul {
     justify-content: flex-start;
 }
 
+.nav-link-min {
+    font-family: Gilroy-Medium, sans-serif;
+font-size: 34px;
+line-height: 42px;
+color: #828282;
+}
+
 .nav-item-min {
     padding-top: 67px;
 }
